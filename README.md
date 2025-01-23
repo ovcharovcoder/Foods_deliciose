@@ -6,7 +6,7 @@
   <li>Development date: 08.12.2022</li>
   <li>
     <p>Brief description:</p>
-    <p>The site is dedicated to the sale of scented candles and candle-making training courses</p>
+    <p>The website was created for a restaurant that offers delicious and healthy food.</p>
   </li>
   
   <li>View website: https://ovcharovcoder.github.io/Foods_deliciose</li>
