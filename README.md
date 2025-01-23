@@ -1,4 +1,4 @@
-<h1>Website "Restaurant "Foods deliciose"</h1>
+<h1>Website 'Restaurant "Foods deliciose"'</h1>
 <h2>About</h2>
 <ul>
   <li>Site name: "Restaurant "Foods deliciose";</li>
