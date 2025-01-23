@@ -9,7 +9,7 @@
     <p>The site is dedicated to the sale of scented candles and candle-making training courses</p>
   </li>
   
-  <li>View website: https://datoshcode.github.io/HMCandler-frontend</li>
+  <li>View website: https://ovcharovcoder.github.io/Foods_deliciose</li>
 </ul>
 
 <img src="screenshot.png" alt="screensot">
