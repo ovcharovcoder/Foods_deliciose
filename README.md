@@ -9,7 +9,7 @@
     <p>The website was created for a restaurant that offers delicious and healthy food.</p>
   </li>
   
-  <li>View website: https://ovcharovcoder.github.io/Foods_deliciose</li>
+  <li>View website: https://ovcharovcoder.github.io/Foods_deliciose-website</li>
 </ul>
 
 <img src="screenshot.png" alt="screensot">
